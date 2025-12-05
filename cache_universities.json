@@ -1,0 +1,191 @@
+[
+  {
+    "name": "Universiteit van Amsterdam",
+    "lat": 52.3681431,
+    "lon": 4.889793,
+    "wikidata": "Q214341",
+    "website": "https://www.uva.nl/"
+  },
+  {
+    "name": "University College Utrecht",
+    "lat": 52.0832758,
+    "lon": 5.1478185,
+    "wikidata": "Q658989",
+    "website": "https://www.uu.nl/bachelors/university-college-utrecht"
+  },
+  {
+    "name": "Protestantse Theologische Universiteit",
+    "lat": 52.0930277,
+    "lon": 5.1227797,
+    "wikidata": "Q1960654",
+    "website": "https://www.pthu.nl/"
+  },
+  {
+    "name": "Wittenborg University",
+    "lat": 52.2100106,
+    "lon": 5.9717767,
+    "wikidata": "Q2788956",
+    "website": "https://www.wittenborg.eu/"
+  },
+  {
+    "name": "Leiden University College The Hague",
+    "lat": 52.0818346,
+    "lon": 4.3260651,
+    "wikidata": "Q16741546",
+    "website": "https://www.universiteitleiden.nl/en/governance-and-global-affairs/leiden-university-college-the-hague"
+  },
+  {
+    "name": "University College Maastricht",
+    "lat": 50.8444528,
+    "lon": 5.6884711,
+    "wikidata": "Q2306063",
+    "website": ""
+  },
+  {
+    "name": "University College Roosevelt",
+    "lat": 51.499104,
+    "lon": 3.6109999,
+    "wikidata": "Q1428969",
+    "website": "https://www.ucr.nl/"
+  },
+  {
+    "name": "Amsterdam University College",
+    "lat": 52.3549766,
+    "lon": 4.9510904,
+    "wikidata": "Q4748849",
+    "website": "https://www.auc.nl"
+  },
+  {
+    "name": "Radboud Universiteit",
+    "lat": 51.8215036,
+    "lon": 5.8659298,
+    "wikidata": "Q632004",
+    "website": "https://www.ru.nl/"
+  },
+  {
+    "name": "Technische Universiteit Eindhoven",
+    "lat": 51.4488305,
+    "lon": 5.4902033,
+    "wikidata": "Q280824",
+    "website": "https://www.tue.nl"
+  },
+  {
+    "name": "Erasmus Universiteit Rotterdam",
+    "lat": 51.9175116,
+    "lon": 4.525682,
+    "wikidata": "Q633529",
+    "website": "https://www.eur.nl/"
+  },
+  {
+    "name": "Tilburg University",
+    "lat": 51.5630648,
+    "lon": 5.0446818,
+    "wikidata": "Q595668",
+    "website": "https://www.tilburguniversity.nl"
+  },
+  {
+    "name": "University of Sint Maarten",
+    "lat": 18.0265897,
+    "lon": -63.0440095,
+    "wikidata": "Q720323",
+    "website": ""
+  },
+  {
+    "name": "Rijksuniversiteit Groningen",
+    "lat": 53.2194444,
+    "lon": 6.5632412,
+    "wikidata": "Q850730",
+    "website": ""
+  },
+  {
+    "name": "Universiteit Twente",
+    "lat": 52.2434572,
+    "lon": 6.8545763,
+    "wikidata": "Q1547084",
+    "website": "https://www.utwente.nl/"
+  },
+  {
+    "name": "Technische Universiteit Delft",
+    "lat": 51.9986323,
+    "lon": 4.3766085,
+    "wikidata": "Q752663",
+    "website": "https://www.tudelft.nl/"
+  },
+  {
+    "name": "University of Maastricht Faculty of Law",
+    "lat": 50.8470859,
+    "lon": 5.6881938,
+    "wikidata": "Q2488693",
+    "website": ""
+  },
+  {
+    "name": "Nyenrode Business Universiteit",
+    "lat": 52.160782,
+    "lon": 5.0062941,
+    "wikidata": "Q1516779",
+    "website": "https://www.nyenrode.nl/"
+  },
+  {
+    "name": "Xavier University School of Medecine",
+    "lat": 12.5310876,
+    "lon": -70.037273,
+    "wikidata": "Q8043318",
+    "website": ""
+  },
+  {
+    "name": "Saba University School of Medicine",
+    "lat": 17.6259498,
+    "lon": -63.2464311,
+    "wikidata": "Q2105549",
+    "website": "https://www.saba.edu/"
+  },
+  {
+    "name": "University Of Aruba",
+    "lat": 12.5236377,
+    "lon": -70.0342293,
+    "wikidata": "Q2542715",
+    "website": "https://www.ua.aw/"
+  },
+  {
+    "name": "Open Universiteit",
+    "lat": 50.8779087,
+    "lon": 5.9593159,
+    "wikidata": "Q1407397",
+    "website": "https://www.ou.nl/"
+  },
+  {
+    "name": "University of Curacao Dr. Moises Da Costa Gomez",
+    "lat": 12.1572987,
+    "lon": -68.9613828,
+    "wikidata": "Q1708838",
+    "website": "https://uoc.cw/"
+  },
+  {
+    "name": "SOMT University of Physiotherapy",
+    "lat": 52.1730483,
+    "lon": 5.4124562,
+    "wikidata": "Q50038849",
+    "website": "https://www.somt.nl/"
+  },
+  {
+    "name": "Wageningen University & Research",
+    "lat": 51.9848281,
+    "lon": 5.6637696,
+    "wikidata": "Q422208",
+    "website": ""
+  },
+  {
+    "name": "Vrije Universiteit Amsterdam",
+    "lat": 52.3345514,
+    "lon": 4.8641352,
+    "wikidata": "Q1065414",
+    "website": "https://vu.nl/"
+  },
+  {
+    "name": "Universiteit Leiden",
+    "lat": 52.1624022,
+    "lon": 4.4732883,
+    "wikidata": "Q156598",
+    "website": "https://www.universiteitleiden.nl/"
+  }
+]

@@ -1,0 +1,4222 @@
+[
+  {
+    "name": "De Drietip",
+    "lat": 51.4711688,
+    "lon": 5.5510394,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Zwembad Merwestein",
+    "lat": 52.0262206,
+    "lon": 5.0918243,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://www.merwestein.nl/"
+  },
+  {
+    "name": "De Hoge Devel",
+    "lat": 51.8195287,
+    "lon": 4.6247852,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Zwembad de Kuil",
+    "lat": 52.0885391,
+    "lon": 4.7470729,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Zwembad de Vosse",
+    "lat": 52.2953159,
+    "lon": 4.5900728,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "De Roerdomp",
+    "lat": 51.1930897,
+    "lon": 6.0113046,
+    "leisure": "swimming_pool",
+    "sport": "",
+    "access": "yes",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Buiten zwembad Kessel",
+    "lat": 51.2928253,
+    "lon": 6.0567683,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://www.zwembadkessel.nl"
+  },
+  {
+    "name": "De Tweesprong",
+    "lat": 52.2079408,
+    "lon": 4.6374873,
+    "leisure": "sports_centre",
+    "sport": "multi;swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Sportcentrum De Lunet",
+    "lat": 52.2897059,
+    "lon": 5.171643,
+    "leisure": "sports_centre",
+    "sport": "swimming;hockey",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Veluwehal",
+    "lat": 52.1427636,
+    "lon": 5.5848795,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "De Sawn Stjerren",
+    "lat": 53.304429,
+    "lon": 5.7837083,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Zwembad Dijnselburg",
+    "lat": 52.1058732,
+    "lon": 5.2408665,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://www.zwembaddijnselburg.nl"
+  },
+  {
+    "name": "Rhienderoord",
+    "lat": 52.0953665,
+    "lon": 6.1402512,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Sas van Gent",
+    "lat": 51.2326631,
+    "lon": 3.8061159,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Zwembad Kerkpolder",
+    "lat": 51.9907869,
+    "lon": 4.3314429,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://www.zwembadkerkpolder.nl/"
+  },
+  {
+    "name": "Zwembad West",
+    "lat": 51.9197748,
+    "lon": 4.4294752,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "De Parrel",
+    "lat": 53.23141,
+    "lon": 6.5480489,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Sportfondsenbad",
+    "lat": 52.4972163,
+    "lon": 4.6566579,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "De Doetse Kom",
+    "lat": 51.8461581,
+    "lon": 4.8995032,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://www.dedoetsekom.nl"
+  },
+  {
+    "name": "Openluchtzwembad Het Run",
+    "lat": 51.6719114,
+    "lon": 5.1408635,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://billybird.nl/nl/het-run/"
+  },
+  {
+    "name": "De Wedert",
+    "lat": 51.3664098,
+    "lon": 5.4534329,
+    "leisure": "swimming_pool",
+    "sport": "",
+    "access": "yes",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "De Meerval",
+    "lat": 51.8028332,
+    "lon": 5.7316671,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "De Kolck",
+    "lat": 53.1352968,
+    "lon": 6.9267074,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Meerwijck",
+    "lat": 53.1498407,
+    "lon": 6.6925434,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Zwembad de Mors",
+    "lat": 52.2546107,
+    "lon": 6.7261381,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://www.zwembad-demors.nl/"
+  },
+  {
+    "name": "Sportfondsenbad Delft",
+    "lat": 52.0112318,
+    "lon": 4.3453617,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Molenduinbad Norg",
+    "lat": 53.0691101,
+    "lon": 6.4477426,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Zwembad de Borghoorns",
+    "lat": 53.0569359,
+    "lon": 6.7137807,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "Gemeente Aa en Hunze",
+    "website": ""
+  },
+  {
+    "name": "Zwemcentrum Rotterdam",
+    "lat": 51.8870746,
+    "lon": 4.4872394,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://www.sportbedrijfrotterdam.nl/locatie/zwemcentrum-rotterdam"
+  },
+  {
+    "name": "Ons Polderbad",
+    "lat": 51.9758308,
+    "lon": 4.7721131,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Zwembad de Waterlelie",
+    "lat": 52.2557498,
+    "lon": 4.7667897,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://www.esa-aalsmeer.nl/de-waterlelie"
+  },
+  {
+    "name": "De Scheg",
+    "lat": 52.2496554,
+    "lon": 6.2135543,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Zwembad De Hangmat",
+    "lat": 51.9992754,
+    "lon": 6.0295781,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://www.sportbedrijfrheden.nl/accommodaties/zwembad-de-hangmat-rheden/"
+  },
+  {
+    "name": "Raoul Illidge Sports Pool",
+    "lat": 18.0280245,
+    "lon": -63.0661056,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Het Oosterbad",
+    "lat": 52.2860747,
+    "lon": 4.7998872,
+    "leisure": "swimming_pool",
+    "sport": "swimming",
+    "access": "yes",
+    "operator": "",
+    "website": "https://www.hetoosterbad.nl"
+  },
+  {
+    "name": "Aquacentrum Den Helder",
+    "lat": 52.9486698,
+    "lon": 4.7526462,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Zwembad De Barkhoorn",
+    "lat": 52.9471252,
+    "lon": 7.1361269,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "gemeente Westerwold",
+    "website": "https://www.westerwolde.nl/zwembad-de-barkhoorn"
+  },
+  {
+    "name": "De Stok",
+    "lat": 51.5340076,
+    "lon": 4.4307364,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Sanadome",
+    "lat": 51.820268,
+    "lon": 5.8318189,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://www.sanadome.nl/"
+  },
+  {
+    "name": "Bosbad",
+    "lat": 52.0184727,
+    "lon": 5.4382395,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "yes",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Diepsteeckel",
+    "lat": 51.3910134,
+    "lon": 5.7212825,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Zwem- en recreatiecentrum De Boetzelaer",
+    "lat": 52.0312889,
+    "lon": 4.1858082,
+    "leisure": "swimming_pool",
+    "sport": "swimming",
+    "access": "yes",
+    "operator": "",
+    "website": "https://www.deboetzelaer.nl/"
+  },
+  {
+    "name": "'t Willaer",
+    "lat": 52.0854134,
+    "lon": 5.4854878,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Multifunctioneel gebouw \"De Zuidplas\"",
+    "lat": 51.9854673,
+    "lon": 4.6585197,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "De Schaeck",
+    "lat": 52.2307322,
+    "lon": 6.1157333,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://www.deschaeck.nl/"
+  },
+  {
+    "name": "Safari",
+    "lat": 52.1355063,
+    "lon": 5.0269833,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "Sportfondsen Stichtse Vecht",
+    "website": ""
+  },
+  {
+    "name": "Zwembad De Plons",
+    "lat": 51.8562184,
+    "lon": 5.7740112,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "De Waterwyck",
+    "lat": 52.7883037,
+    "lon": 6.1310515,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Prins Willem-Alexander Bad",
+    "lat": 52.1359611,
+    "lon": 4.602303,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://www.pwabad.nl"
+  },
+  {
+    "name": "De Vennen;Zwembad De Vennen",
+    "lat": 51.6195347,
+    "lon": 4.9503175,
+    "leisure": "sports_centre",
+    "sport": "swimming;fitness",
+    "access": "yes",
+    "operator": "",
+    "website": "https://vennen.nl/"
+  },
+  {
+    "name": "De Wilder",
+    "lat": 52.1468918,
+    "lon": 6.7241616,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://www.optisport.nl/zwembad-de-wilder-haaksbergen"
+  },
+  {
+    "name": "Forum Kwadraat",
+    "lat": 52.0744208,
+    "lon": 4.3619527,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Zwembad Bijtelskil",
+    "lat": 51.8154849,
+    "lon": 4.9561831,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://zwembadbijtelskil.nl/"
+  },
+  {
+    "name": "Zwembad Molenkoog",
+    "lat": 53.0487983,
+    "lon": 4.8043299,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "Gemeente Texel",
+    "website": "https://www.texel.nl/zwembad/"
+  },
+  {
+    "name": "Zwembad Hunzedal",
+    "lat": 52.9227783,
+    "lon": 6.8055668,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://www.roompot.nl/hunzeoutdoor/zwembad-hunzedal/"
+  },
+  {
+    "name": "Zwembad De Vrolijkheid",
+    "lat": 52.5234659,
+    "lon": 6.1234152,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "Optisport",
+    "website": "https://www.optisport.nl/vrolijkheid/"
+  },
+  {
+    "name": "De Tippe",
+    "lat": 52.4354948,
+    "lon": 6.2233755,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "De Blinkerd",
+    "lat": 52.1061791,
+    "lon": 4.2829351,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Zwembad Werkina",
+    "lat": 51.8052712,
+    "lon": 4.9050791,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "De Wellen",
+    "lat": 51.7753773,
+    "lon": 4.6188901,
+    "leisure": "swimming_pool",
+    "sport": "swimming",
+    "access": "yes",
+    "operator": "De Wellen",
+    "website": ""
+  },
+  {
+    "name": "Zwembad De Brink",
+    "lat": 52.0052892,
+    "lon": 6.3526085,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "conegroup",
+    "website": "https://zwembaddebrink.nl/"
+  },
+  {
+    "name": "Zwembad De Veldkamp",
+    "lat": 52.4569181,
+    "lon": 5.9980204,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "De Boskoele",
+    "lat": 52.1907737,
+    "lon": 6.2176023,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Zwembad De Welters",
+    "lat": 52.3779352,
+    "lon": 6.1389532,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://www.zwembaddewelters.nl/"
+  },
+  {
+    "name": "Borgelerbad",
+    "lat": 52.2768745,
+    "lon": 6.1604936,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://www.sportbedrijfdeventer.nl/borgelerbad/"
+  },
+  {
+    "name": "Het Kristal",
+    "lat": 52.236567,
+    "lon": 5.9966679,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "De Sprenkelaar",
+    "lat": 52.222451,
+    "lon": 5.9967801,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Zwembad Octopus",
+    "lat": 52.1258403,
+    "lon": 5.4118104,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "SRO",
+    "website": "https://www.octopus.nu"
+  },
+  {
+    "name": "Splash openluchtzwembad De Glind",
+    "lat": 52.1144143,
+    "lon": 5.5116298,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://www.zwembaddeglind.nl/"
+  },
+  {
+    "name": "Zwembad De Duker",
+    "lat": 52.2456291,
+    "lon": 5.3584594,
+    "leisure": "sports_centre",
+    "sport": "swimming_pool",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Natuurlijk Heidepark",
+    "lat": 52.4421687,
+    "lon": 6.3514036,
+    "leisure": "sports_centre",
+    "sport": "swimming;climbing_adventure",
+    "access": "",
+    "operator": "Heidepark Sport",
+    "website": "https://natuurlijkheidepark.nl/"
+  },
+  {
+    "name": "Berghuizerbad",
+    "lat": 52.4148543,
+    "lon": 6.0588889,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://www.berghuizerbad.com/"
+  },
+  {
+    "name": "Zwembad Valkenhuizen",
+    "lat": 52.0049173,
+    "lon": 5.9310124,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "'t Bun",
+    "lat": 52.6680566,
+    "lon": 5.5992577,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://zwembadurk.nl/"
+  },
+  {
+    "name": "Schoonenburg",
+    "lat": 51.8835541,
+    "lon": 4.6618466,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://www.zwembadschoonenburg.nl/"
+  },
+  {
+    "name": "Het Siel",
+    "lat": 52.3998614,
+    "lon": 6.3626927,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "Stichting Zwembad de Luttenberg",
+    "website": "https://zwembadhetsiel.nl/"
+  },
+  {
+    "name": "De Fakkel",
+    "lat": 51.8789128,
+    "lon": 4.591341,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://www.de-fakkel.nl"
+  },
+  {
+    "name": "Club Pellikaan Breda",
+    "lat": 51.5823272,
+    "lon": 4.8047404,
+    "leisure": "sports_centre",
+    "sport": "fitness;swimming;wellness",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Zwembad De Kuil",
+    "lat": 51.6215431,
+    "lon": 4.7039341,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://www.dekuilprinsenbeek.nl/"
+  },
+  {
+    "name": "Het Vinkennest",
+    "lat": 52.0966472,
+    "lon": 6.6259223,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Laco Leerdam",
+    "lat": 51.8908168,
+    "lon": 5.0878773,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://www.laco.eu/locatie/leerdam/"
+  },
+  {
+    "name": "De Hoge Bomen",
+    "lat": 51.9853505,
+    "lon": 4.209634,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://www.optisport.nl/hogebomen"
+  },
+  {
+    "name": "'t Tolhekke",
+    "lat": 52.810183,
+    "lon": 6.0252233,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Hessenbad",
+    "lat": 52.0017436,
+    "lon": 6.2064783,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "yes",
+    "operator": "",
+    "website": "https://hessenbad.nl/"
+  },
+  {
+    "name": "Maesemunde",
+    "lat": 51.99395,
+    "lon": 4.1711715,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://www.optisport.nl/maesemunde"
+  },
+  {
+    "name": "'t Hoogkoor",
+    "lat": 51.6472092,
+    "lon": 5.9470046,
+    "leisure": "sports_centre",
+    "sport": "swimming;basketball;badminton;volleyball;hockey;soccer;gymnastics;fitness;miniature_golf",
+    "access": "",
+    "operator": "Optisport",
+    "website": "https://www.optisport.nl/zwembad-t-hoogkoor-boxmeer"
+  },
+  {
+    "name": "'t Zuiderdiep",
+    "lat": 51.810659,
+    "lon": 4.0313292,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Zwembad De Dúnatter",
+    "lat": 53.4828855,
+    "lon": 6.1646501,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Zwembad de Rijd",
+    "lat": 52.7338104,
+    "lon": 4.8827919,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Zwembad de Venne",
+    "lat": 52.908766,
+    "lon": 4.9573339,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Buitenzwembad Zegenwerp",
+    "lat": 51.6357955,
+    "lon": 5.3449448,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "Optisport",
+    "website": "https://www.optisport.nl/buitenzwembad-zegenwerp-sint-michielsgestel"
+  },
+  {
+    "name": "ZwemZeker",
+    "lat": 52.0192561,
+    "lon": 5.6680831,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "ZwemZeker",
+    "website": ""
+  },
+  {
+    "name": "Lentebad",
+    "lat": 51.9374316,
+    "lon": 6.071894,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://lentebad.nl/"
+  },
+  {
+    "name": "D.G. van den Noortbad",
+    "lat": 53.135077,
+    "lon": 6.8726898,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://www.dekrabbelaar.nl/"
+  },
+  {
+    "name": "Laco Sportcentrum",
+    "lat": 51.743354,
+    "lon": 4.5583345,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Beleefpark Dwingeloo",
+    "lat": 52.8199878,
+    "lon": 6.3672813,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Zwembad Fletiomare",
+    "lat": 52.0899736,
+    "lon": 5.0250757,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://www.utrecht.nl/wonen-en-leven/vrije-tijd/zwembaden/zwembad-fletiomare/"
+  },
+  {
+    "name": "Sportfondsen Zevenkampse Ring",
+    "lat": 51.9644663,
+    "lon": 4.5721566,
+    "leisure": "sports_centre",
+    "sport": "swimming;badminton",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Feel Fit Center Vught",
+    "lat": 51.6491969,
+    "lon": 5.2908726,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "yes",
+    "operator": "",
+    "website": "https://www.feelfitcenter.nl/sportcentrum/vught/"
+  },
+  {
+    "name": "Sportplaza Groenendaal",
+    "lat": 52.3382596,
+    "lon": 4.6255887,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://www.sportplazagroenendaal.nl/"
+  },
+  {
+    "name": "Zwembad Sportboulevard",
+    "lat": 51.7930578,
+    "lon": 4.6774092,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Brilmansdennen",
+    "lat": 52.2682202,
+    "lon": 7.0148652,
+    "leisure": "swimming_pool",
+    "sport": "",
+    "access": "yes",
+    "operator": "community",
+    "website": ""
+  },
+  {
+    "name": "Zwemschool Schermer",
+    "lat": 52.658313,
+    "lon": 5.0557896,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://www.zwemschoolschermer.nl/"
+  },
+  {
+    "name": "Neptunusbad",
+    "lat": 52.7315435,
+    "lon": 6.9908557,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://gemeente.emmen.nl/zwembaden/neptunusbad"
+  },
+  {
+    "name": "Zwembad De Neul",
+    "lat": 51.5663002,
+    "lon": 5.4587918,
+    "leisure": "swimming_pool",
+    "sport": "swimming",
+    "access": "yes",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "De Kûpe",
+    "lat": 53.2490388,
+    "lon": 6.1485861,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Natuurbad De Donk",
+    "lat": 51.8820187,
+    "lon": 4.9379513,
+    "leisure": "swimming_pool",
+    "sport": "",
+    "access": "yes",
+    "operator": "",
+    "website": "https://www.zwemwater.nl/?id=1774"
+  },
+  {
+    "name": "Het Hemmerven",
+    "lat": 52.6562807,
+    "lon": 5.1830306,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://www.hemmerven.nl/"
+  },
+  {
+    "name": "Vereniging Kralings Zwembad",
+    "lat": 51.912922,
+    "lon": 4.524792,
+    "leisure": "sports_centre",
+    "sport": "swimming_pool",
+    "access": "permissive",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Zwembad De Krim",
+    "lat": 52.6512579,
+    "lon": 6.6299418,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://www.zwembaddekrim.nl"
+  },
+  {
+    "name": "Oostelijk Zwembad",
+    "lat": 51.9257837,
+    "lon": 4.4981471,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "Sportfondsen",
+    "website": "https://www.oostelijkzwembad.nl/"
+  },
+  {
+    "name": "Zwembad De Kloet",
+    "lat": 52.6937302,
+    "lon": 5.2160243,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://www.stedebroec.nl/zwembad-de-kloet/"
+  },
+  {
+    "name": "Geusseltbad Maastricht",
+    "lat": 50.858586,
+    "lon": 5.7214231,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://www.geusseltbad.nl/"
+  },
+  {
+    "name": "Zwembad Scharlakenhof",
+    "lat": 53.1598595,
+    "lon": 6.6255436,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://www.zwembadscharlakenhof.nl/"
+  },
+  {
+    "name": "de Spetter",
+    "lat": 51.5362701,
+    "lon": 4.2136582,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://www.despettertholen.nl/"
+  },
+  {
+    "name": "Sportcentrum Vrijburgbad",
+    "lat": 51.4745921,
+    "lon": 3.5951299,
+    "leisure": "sports_centre",
+    "sport": "swimming;fitness",
+    "access": "",
+    "operator": "Optisport",
+    "website": "https://www.optisport.nl/sportcentrum-vrijburgbad-vlissingen-middelburg"
+  },
+  {
+    "name": "HealthCity",
+    "lat": 51.573019,
+    "lon": 5.1815226,
+    "leisure": "sports_centre",
+    "sport": "Fitness, tennis, squash, swimming, yoga, wellness",
+    "access": "",
+    "operator": "",
+    "website": "https://www.healthcity.nl/sportscholen/oisterwijk"
+  },
+  {
+    "name": "Zwembad de Wetering",
+    "lat": 52.0227555,
+    "lon": 5.1589048,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "Optisport",
+    "website": ""
+  },
+  {
+    "name": "Erica Terpstra Sportfondsenbad",
+    "lat": 51.8305764,
+    "lon": 5.8883322,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://www.sportfondsennijmegen.nl/erica-terpstra-sportfondsenbad/"
+  },
+  {
+    "name": "Zwembad De Smagtenbocht",
+    "lat": 51.3604543,
+    "lon": 5.2179956,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://www.optisport.nl/smagtenbocht/"
+  },
+  {
+    "name": "Zwembad Mondriaan",
+    "lat": 50.866984,
+    "lon": 5.9733509,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "Mondriaan",
+    "website": ""
+  },
+  {
+    "name": "De Wedert",
+    "lat": 51.3654686,
+    "lon": 5.4545883,
+    "leisure": "swimming_pool",
+    "sport": "swimming",
+    "access": "yes",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Zwembad Hoensbroek",
+    "lat": 50.9196735,
+    "lon": 5.9341359,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "Sportfondsen Nederland",
+    "website": "https://zwembadhoensbroek.nl/"
+  },
+  {
+    "name": "Zwembad Almere-Stad",
+    "lat": 52.3698996,
+    "lon": 5.2019137,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Zwembad De Lansingh",
+    "lat": 51.9108521,
+    "lon": 4.5930308,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://www.optisport.nl/lansingh"
+  },
+  {
+    "name": "Binnenbad",
+    "lat": 52.3844703,
+    "lon": 5.6286328,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "customers",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Zwembad de Alk",
+    "lat": 52.4522956,
+    "lon": 5.686331,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "customers",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Zwembad Warder",
+    "lat": 52.5661876,
+    "lon": 5.0321844,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "De Hofstee",
+    "lat": 51.9273241,
+    "lon": 4.7841736,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Het Mineraal",
+    "lat": 52.3558333,
+    "lon": 5.1974572,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "Zweminstituut Siemons",
+    "website": "https://www.hetmineraal.nl/"
+  },
+  {
+    "name": "Zwembad de Bloesem",
+    "lat": 51.4827714,
+    "lon": 3.9695787,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "customers",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Groene Wellen",
+    "lat": 51.616665,
+    "lon": 5.1423927,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Aquayara Zwemschool",
+    "lat": 52.3772704,
+    "lon": 5.2706436,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Het Ravijn",
+    "lat": 52.3676866,
+    "lon": 6.448532,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://www.hetravijn.nl/accommodatie/"
+  },
+  {
+    "name": "De Goffert",
+    "lat": 51.8291251,
+    "lon": 5.8377886,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "customers",
+    "operator": "",
+    "website": "https://www.sportfondsennijmegen.nl/"
+  },
+  {
+    "name": "Het Puzzelbad",
+    "lat": 51.641222,
+    "lon": 4.7514134,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Batensteinbad",
+    "lat": 52.0931802,
+    "lon": 4.8859352,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Drieburcht",
+    "lat": 51.5835138,
+    "lon": 5.0836723,
+    "leisure": "sports_centre",
+    "sport": "multi;swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Jottem",
+    "lat": 51.9387641,
+    "lon": 5.9352987,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Feel Fit Center",
+    "lat": 51.8922677,
+    "lon": 5.9186608,
+    "leisure": "sports_centre",
+    "sport": "swimming;fitness",
+    "access": "",
+    "operator": "",
+    "website": "https://www.feelfitcenter.nl/locatie/bemmel/"
+  },
+  {
+    "name": "De Smelen-Laco",
+    "lat": 51.4088096,
+    "lon": 5.5526013,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Zwembad De Breek",
+    "lat": 52.4321451,
+    "lon": 4.9054337,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://www.debreek.nl"
+  },
+  {
+    "name": "Zwembad de Biezem",
+    "lat": 52.255807,
+    "lon": 5.2394881,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://debiezem.nl"
+  },
+  {
+    "name": "Feel Fit Center Driebergen",
+    "lat": 52.0626393,
+    "lon": 5.2938086,
+    "leisure": "sports_centre",
+    "sport": "swimming;fitness;water_polo",
+    "access": "",
+    "operator": "Feel Fit Center",
+    "website": "https://www.feelfitcenter.nl/locatie/driebergen/"
+  },
+  {
+    "name": "Zwem- en Recreatiepark De Koet",
+    "lat": 52.1476397,
+    "lon": 4.9554866,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://dekoet.nl"
+  },
+  {
+    "name": "Openluchtbad Zwolle",
+    "lat": 52.5170638,
+    "lon": 6.1186815,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://www.openluchtbadzwolle.nl/"
+  },
+  {
+    "name": "Zwembad Het Zwet",
+    "lat": 52.5021512,
+    "lon": 4.815742,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Zwem- en Sportcentrum De Koekoek",
+    "lat": 52.2858745,
+    "lon": 5.9585848,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://www.dekoekoek.nl/"
+  },
+  {
+    "name": "De Zien",
+    "lat": 52.5239041,
+    "lon": 4.7025386,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Zwembad De Crommenije",
+    "lat": 52.5062831,
+    "lon": 4.764062,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "Sportbedrijf Zaanstad",
+    "website": ""
+  },
+  {
+    "name": "De slag",
+    "lat": 52.4427408,
+    "lon": 4.8384566,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Bosbad Putten",
+    "lat": 52.2735471,
+    "lon": 5.6113893,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Zweminstituur Drunen",
+    "lat": 51.6917417,
+    "lon": 5.1599021,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Zwembad 't Vlasmeer",
+    "lat": 53.0370172,
+    "lon": 7.0347683,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://optisport.nl/locaties/vlasmeer"
+  },
+  {
+    "name": "Ny Sudersé",
+    "lat": 52.8438421,
+    "lon": 5.701655,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Moekesgat",
+    "lat": 52.8847396,
+    "lon": 7.0600463,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://moekesgat.nl/zwembad"
+  },
+  {
+    "name": "Zwembad de Waterakkers",
+    "lat": 52.5141969,
+    "lon": 4.6593951,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Julianabad Arnemuiden",
+    "lat": 51.5020485,
+    "lon": 3.6785364,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "customers",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Zwembad De Vlaskoel",
+    "lat": 52.4107505,
+    "lon": 6.783238,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://sportcentrumdevlaskoel.nl/"
+  },
+  {
+    "name": "De Smient",
+    "lat": 51.3963249,
+    "lon": 5.4411128,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "customers",
+    "operator": "",
+    "website": "https://www.desmient.nl"
+  },
+  {
+    "name": "Laco Zwembad",
+    "lat": 51.2393574,
+    "lon": 5.9444811,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://www.laco.eu/locatie/haelen/"
+  },
+  {
+    "name": "MijnZwemschool Drachten",
+    "lat": 53.0920482,
+    "lon": 6.0804138,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://www.mijnzwemschool.nl/drachten/"
+  },
+  {
+    "name": "Zwembad Aarweide",
+    "lat": 52.1846763,
+    "lon": 4.740045,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "De Spettertuin",
+    "lat": 51.9067571,
+    "lon": 4.9399831,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://www.noordeloos.nl/verenigingen/sport/zwembad-de-spettertuin"
+  },
+  {
+    "name": "Aqua Vita Wellness",
+    "lat": 51.8852739,
+    "lon": 5.6107681,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://www.aquavitawellness.nl/druten/"
+  },
+  {
+    "name": "Zwemschool Olga",
+    "lat": 51.8836005,
+    "lon": 5.6104982,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://zwemschool-olga.nl/"
+  },
+  {
+    "name": "Zwembad Lobeke",
+    "lat": 51.9750284,
+    "lon": 4.9535706,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Zwembad Blauwkapel",
+    "lat": 52.1208291,
+    "lon": 5.1422911,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://www.optisport.nl/blauwkapel"
+  },
+  {
+    "name": "Zeester Meerval",
+    "lat": 51.650343,
+    "lon": 5.6376373,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Laco Zwembad Peel en Maas",
+    "lat": 51.3320773,
+    "lon": 5.9809127,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Sportcentrum De Helster",
+    "lat": 51.9242406,
+    "lon": 5.8472146,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Zwembad de Bongerd",
+    "lat": 51.981584,
+    "lon": 5.6653744,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://zwembaddebongerd.nl/"
+  },
+  {
+    "name": "Zwembad Drie Essen Zetten",
+    "lat": 51.9181848,
+    "lon": 5.7227989,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://www.ezzys.nl/zwembad/zetten/"
+  },
+  {
+    "name": "Zwembad De Kwakel",
+    "lat": 52.1156203,
+    "lon": 5.1032869,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://www.utrecht.nl/wonen-en-leven/vrije-tijd/zwembaden/zwembad-de-kwakel"
+  },
+  {
+    "name": "MFC It Spektrum",
+    "lat": 53.2958883,
+    "lon": 5.8767847,
+    "leisure": "sports_centre",
+    "sport": "swimming;korfball;soccer;tennis",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Overdekt zwembad",
+    "lat": 51.3853856,
+    "lon": 3.4583801,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Zwembad de Krommerijn",
+    "lat": 52.0828796,
+    "lon": 5.157807,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Aqua Mundo",
+    "lat": 51.4570048,
+    "lon": 5.951174,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "San Nicolas zwembad",
+    "lat": 12.4391633,
+    "lon": -69.9072154,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "LACO Sportcentrum",
+    "lat": 51.1621358,
+    "lon": 6.0243041,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "LACO",
+    "website": ""
+  },
+  {
+    "name": "De Warande",
+    "lat": 51.6341517,
+    "lon": 4.8462784,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "Gemeente Oosterhout",
+    "website": ""
+  },
+  {
+    "name": "De Potten Naaktstrand",
+    "lat": 53.0361561,
+    "lon": 5.7272642,
+    "leisure": "swimming_pool",
+    "sport": "swimming",
+    "access": "yes",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Binnenbad",
+    "lat": 51.738728,
+    "lon": 3.8932857,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "Landal",
+    "website": ""
+  },
+  {
+    "name": "Zwembad De Griffioen",
+    "lat": 53.2596674,
+    "lon": 6.3047857,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://www.zwembadgrijpskerk.nl/"
+  },
+  {
+    "name": "Sportcentrum Papendrecht",
+    "lat": 51.8343894,
+    "lon": 4.6924524,
+    "leisure": "sports_centre",
+    "sport": "basketball;football;gymnastic;swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://www.sportpapendrecht.nl/"
+  },
+  {
+    "name": "de Waterlinie",
+    "lat": 51.9453709,
+    "lon": 5.23611,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://www.optisport.nl/zwembad-de-waterlinie-culemborg"
+  },
+  {
+    "name": "Zwembad Zaangolf",
+    "lat": 52.4663967,
+    "lon": 4.8026043,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Zwemschool Oostwold",
+    "lat": 53.2073085,
+    "lon": 6.4505681,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "customers",
+    "operator": "",
+    "website": "https://www.zwemschooloostwold.nl/"
+  },
+  {
+    "name": "de Eenhoorn",
+    "lat": 51.323813,
+    "lon": 3.4808095,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://www.deeenhoorn.nl"
+  },
+  {
+    "name": "R&A Sports & Swimming",
+    "lat": 52.1865883,
+    "lon": 5.4197739,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Geert Vos bad",
+    "lat": 52.7151544,
+    "lon": 6.9254525,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Helsdingen",
+    "lat": 51.9867062,
+    "lon": 5.0824354,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "MSB de Hardenberg",
+    "lat": 53.1863925,
+    "lon": 7.0828188,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "http://www.sportcentrumdehardenberg.nl"
+  },
+  {
+    "name": "Alexanderhof",
+    "lat": 51.9366048,
+    "lon": 4.5518375,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "Optisport",
+    "website": "https://www.optisport.nl/alexanderhof"
+  },
+  {
+    "name": "Feel Fit Center Rhenen",
+    "lat": 51.9619475,
+    "lon": 5.5664445,
+    "leisure": "sports_centre",
+    "sport": "swimming;gymnastics;fitness",
+    "access": "",
+    "operator": "",
+    "website": "https://www.feelfitcenter.nl/locatie/rhenen/"
+  },
+  {
+    "name": "De Banakker",
+    "lat": 51.5685743,
+    "lon": 4.6440715,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "De Oase",
+    "lat": 52.3357328,
+    "lon": 6.2837997,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://zwembadheetenoase.nl/"
+  },
+  {
+    "name": "Sportsereen",
+    "lat": 51.9351515,
+    "lon": 5.9274777,
+    "leisure": "sports_centre",
+    "sport": "fitness;swimming;multi;squash",
+    "access": "",
+    "operator": "",
+    "website": "https://www.sportsereen.nl/"
+  },
+  {
+    "name": "Zwembad Steinerbos",
+    "lat": 50.9690526,
+    "lon": 5.7781324,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Zwembad de Baan",
+    "lat": 51.9818657,
+    "lon": 4.6782238,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Hofbad",
+    "lat": 52.052864,
+    "lon": 4.3827902,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://www.denhaag.nl/nl/sport/zwemmen-en-zwembaden/zwembaden-en-voorzieningen/"
+  },
+  {
+    "name": "De Roodloop",
+    "lat": 51.4938538,
+    "lon": 5.131162,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://www.laco.eu/locatie/hilvarenbeek"
+  },
+  {
+    "name": "Den Butter",
+    "lat": 51.5895152,
+    "lon": 4.932882,
+    "leisure": "swimming_pool",
+    "sport": "",
+    "access": "yes",
+    "operator": "",
+    "website": "https://www.optisport.nl/zwembad-den-butter-rijen"
+  },
+  {
+    "name": "Zwembad",
+    "lat": 53.1580514,
+    "lon": 4.8447405,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Aquarena",
+    "lat": 52.7753205,
+    "lon": 6.941915,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Sportcentrum \"De Zandzee\"",
+    "lat": 52.2664018,
+    "lon": 5.1563471,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Zwembad",
+    "lat": 52.0920737,
+    "lon": 6.0337691,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "customers",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "De Dompelaar",
+    "lat": 51.9351925,
+    "lon": 4.8313102,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Zwembad de Molenheij",
+    "lat": 51.6348055,
+    "lon": 5.4235186,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://zwembaddemolenhey.nl/"
+  },
+  {
+    "name": "Zwembad",
+    "lat": 52.7971624,
+    "lon": 6.7053638,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "customers",
+    "operator": "Landal",
+    "website": ""
+  },
+  {
+    "name": "Jaap van der Krol-Bad",
+    "lat": 52.2086868,
+    "lon": 5.4671092,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "De Geus Sports & Events",
+    "lat": 52.6757278,
+    "lon": 4.7921416,
+    "leisure": "sports_centre",
+    "sport": "fitness;wellness;climbing;climbing_adventure;bowling;swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://www.geus.nl"
+  },
+  {
+    "name": "Zorgbad Zonnewater",
+    "lat": 52.0018066,
+    "lon": 6.2069431,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "customers",
+    "operator": "",
+    "website": "https://www.zonnewater.nl/"
+  },
+  {
+    "name": "Zwembad",
+    "lat": 52.1288098,
+    "lon": 5.9000853,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "customers",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "De Startsprong",
+    "lat": 52.0299178,
+    "lon": 5.1835066,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://zwemleshouten.nl"
+  },
+  {
+    "name": "Reynaertland",
+    "lat": 51.271937,
+    "lon": 4.0565207,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://www.reynaertland.nl/"
+  },
+  {
+    "name": "Zwembad De Kikker",
+    "lat": 52.1303188,
+    "lon": 5.1306667,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "private",
+    "operator": "",
+    "website": "https://www.zwembaddekikker.nl/"
+  },
+  {
+    "name": "Zwembad",
+    "lat": 51.6578473,
+    "lon": 5.067145,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "customers",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Lion Fish Swim School",
+    "lat": 12.5771276,
+    "lon": -70.0320231,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://www.lionfishswimschool.com/"
+  },
+  {
+    "name": "De Sportwaard",
+    "lat": 51.8032479,
+    "lon": 5.257301,
+    "leisure": "sports_centre",
+    "sport": "multi; swimming",
+    "access": "",
+    "operator": "Sportfondsen",
+    "website": "https://www.desportwaard.nl/"
+  },
+  {
+    "name": "Optisport Zwembad Den Donk",
+    "lat": 51.5703322,
+    "lon": 5.1784601,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://www.optisport.nl/den-donk-oisterwijk"
+  },
+  {
+    "name": "Zwemcentrum In de Bende",
+    "lat": 50.9111737,
+    "lon": 6.0348657,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://www.indebende.nl/"
+  },
+  {
+    "name": "Zwembad Brandenburg",
+    "lat": 52.1251882,
+    "lon": 5.189047,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "ir. Ottenbad",
+    "lat": 51.4765361,
+    "lon": 5.4566991,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://www.eindhovensport.nl/zwemmen/ir-ottenbad"
+  },
+  {
+    "name": "Sportcentrum De Beeck",
+    "lat": 52.6757299,
+    "lon": 4.7099547,
+    "leisure": "sports_centre",
+    "sport": "swimming;gymnastics",
+    "access": "",
+    "operator": "",
+    "website": "https://www.debeeck.nl/"
+  },
+  {
+    "name": "Amsterdeck Nieuwe Meer",
+    "lat": 52.3329269,
+    "lon": 4.8465781,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "Waterschap Amstel, Gooi en Vecht",
+    "website": "https://amsterdecks.com/"
+  },
+  {
+    "name": "Zwemkasteel Nienoord",
+    "lat": 53.1677251,
+    "lon": 6.3975462,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "zwemvereniging Het Baksche Ven",
+    "lat": 51.5514135,
+    "lon": 5.139348,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://www.hetbakscheven.nl/"
+  },
+  {
+    "name": "Oasa",
+    "lat": 52.7512734,
+    "lon": 5.1931411,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Nolde",
+    "lat": 52.6418476,
+    "lon": 6.4320445,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Maji Springs",
+    "lat": 51.5148945,
+    "lon": 5.1172628,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "customers",
+    "operator": "",
+    "website": "https://www.beeksebergen.nl/overnachten/safari-resort/maji-springs"
+  },
+  {
+    "name": "Swimmin'",
+    "lat": 51.8275039,
+    "lon": 4.4602963,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Campingzwembad Haeghenhorst",
+    "lat": 52.3132711,
+    "lon": 5.6294915,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "BinnenZee",
+    "lat": 52.2401266,
+    "lon": 4.4405902,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://www.binnenzee.com"
+  },
+  {
+    "name": "Europarcs binnen zwembad",
+    "lat": 52.7746482,
+    "lon": 6.3691328,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Zwembad De Braak",
+    "lat": 51.4870961,
+    "lon": 5.6760375,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "Optisport",
+    "website": "https://www.optisport.nl/zwembad-de-braak"
+  },
+  {
+    "name": "Zwembad De Vallei",
+    "lat": 52.0262778,
+    "lon": 5.5421351,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "Sportservice Veenendaal",
+    "website": "https://www.sportserviceveenendaal.nl/over-zwembad-de-vallei"
+  },
+  {
+    "name": "Zwembad De Beemd",
+    "lat": 51.6145216,
+    "lon": 5.5448328,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "De Stamper",
+    "lat": 52.4024399,
+    "lon": 6.6265233,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Ezzy's Nijmegen",
+    "lat": 51.864266,
+    "lon": 5.8572935,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://www.ezzys.nl/zwembad/nijmegen/"
+  },
+  {
+    "name": "Zwembad Jaspers",
+    "lat": 51.982593,
+    "lon": 6.7070742,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://www.zwembadjaspers.nl"
+  },
+  {
+    "name": "De Watertoren",
+    "lat": 53.1408797,
+    "lon": 7.0272839,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "Gemeente Oldambt",
+    "website": "https://www.gemeente-oldambt.nl/zwembaden"
+  },
+  {
+    "name": "de IJsselslag",
+    "lat": 52.1284168,
+    "lon": 6.215204,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://www.ijsselslag.nl/"
+  },
+  {
+    "name": "Binnenbad de Vliet",
+    "lat": 52.1389984,
+    "lon": 4.4813779,
+    "leisure": "swimming_pool",
+    "sport": "",
+    "access": "yes",
+    "operator": "",
+    "website": "https://sportinleiden.nl/zwemmen/locaties/zwembad-de-vliet"
+  },
+  {
+    "name": "Magna Aqua",
+    "lat": 52.0555218,
+    "lon": 4.2133742,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "Roompot Kijkduin",
+    "website": ""
+  },
+  {
+    "name": "Ommerbad",
+    "lat": 52.5011211,
+    "lon": 6.4389007,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Zwembad Zanderij",
+    "lat": 52.2881831,
+    "lon": 5.6007689,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://www.interactie-ermelo.nl/zwembad/"
+  },
+  {
+    "name": "Zwembad De Grote Koppel",
+    "lat": 51.9626683,
+    "lon": 5.9043291,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Zwembad Kerkelanden",
+    "lat": 52.2141276,
+    "lon": 5.1489309,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://www.zwembadkerkelanden.nl"
+  },
+  {
+    "name": "Hof van Saksen Wasserspaß",
+    "lat": 52.9648247,
+    "lon": 6.6765212,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "Hof van Saksen",
+    "website": "https://www.hofvansaksen.de/hof-van-saksen/im-und-um-das-resort/wasserspass"
+  },
+  {
+    "name": "Swimgym",
+    "lat": 52.3539572,
+    "lon": 4.9131905,
+    "leisure": "swimming_pool",
+    "sport": "swimming",
+    "access": "yes",
+    "operator": "",
+    "website": "https://swimgym.nl/"
+  },
+  {
+    "name": "Zwembad Bijlmer",
+    "lat": 52.3153225,
+    "lon": 4.9578243,
+    "leisure": "swimming_pool",
+    "sport": "swimming",
+    "access": "yes",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Jekerdal",
+    "lat": 50.8426635,
+    "lon": 5.6808438,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "yes",
+    "operator": "",
+    "website": "https://jekerdal.nl/"
+  },
+  {
+    "name": "Zwembad Haasbroek",
+    "lat": 52.1172259,
+    "lon": 4.502173,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Zwembad De Vliet",
+    "lat": 52.1395444,
+    "lon": 4.4827065,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://www.sportinleiden.nl/zwemmen/locaties/buitenbad-de-vliet/"
+  },
+  {
+    "name": "Zwem -en recreactiecomplex De Wijzend",
+    "lat": 52.6655826,
+    "lon": 5.0792819,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "De Windas",
+    "lat": 51.9938707,
+    "lon": 4.4867491,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Zwembad De Driesprong",
+    "lat": 52.0508614,
+    "lon": 4.4893786,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "De Veur",
+    "lat": 52.0383511,
+    "lon": 4.4837014,
+    "leisure": "sports_centre",
+    "sport": "swimming, atletic",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "De Mirandabad",
+    "lat": 52.3388034,
+    "lon": 4.9028022,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "Stadsdeel Zuid",
+    "website": "https://www.amsterdam.nl/demirandabad/"
+  },
+  {
+    "name": "Zwembad Zwanemeer",
+    "lat": 53.0158642,
+    "lon": 6.7625858,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Recreatiebad",
+    "lat": 52.4045261,
+    "lon": 6.8875376,
+    "leisure": "swimming_pool",
+    "sport": "",
+    "access": "yes",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Wedstrijdbad",
+    "lat": 52.4040916,
+    "lon": 6.8879216,
+    "leisure": "swimming_pool",
+    "sport": "swimming",
+    "access": "yes",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Peuterbad",
+    "lat": 52.4045532,
+    "lon": 6.8882528,
+    "leisure": "swimming_pool",
+    "sport": "",
+    "access": "yes",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Peuterbad",
+    "lat": 52.4045693,
+    "lon": 6.8881328,
+    "leisure": "swimming_pool",
+    "sport": "",
+    "access": "yes",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Peuterbad",
+    "lat": 52.4044741,
+    "lon": 6.8881901,
+    "leisure": "swimming_pool",
+    "sport": "",
+    "access": "yes",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Sportcentrum De Koploper",
+    "lat": 52.5191779,
+    "lon": 5.4948769,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://www.sportbedrijf.nl/de-koploper/"
+  },
+  {
+    "name": "Helperzwembad",
+    "lat": 53.1947762,
+    "lon": 6.5789237,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "Gemeente Groningen",
+    "website": "https://sport050.nl/sportlocaties/helperzwembad/"
+  },
+  {
+    "name": "De Schelp",
+    "lat": 51.4853062,
+    "lon": 4.2770242,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "De Melanen",
+    "lat": 51.5210383,
+    "lon": 4.2868853,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Zwembad de Hout",
+    "lat": 52.6225234,
+    "lon": 4.7322803,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Zwembad de Planeet",
+    "lat": 52.4086525,
+    "lon": 4.6461602,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "yes",
+    "operator": "SRO",
+    "website": "https://sro.nl/zwembad-de-planeet/"
+  },
+  {
+    "name": "Zwembad Wasbeek",
+    "lat": 52.2175297,
+    "lon": 4.5178297,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Zwembad Het Wedde",
+    "lat": 52.1393083,
+    "lon": 4.4521315,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://www.zwembadhetwedde.nl/"
+  },
+  {
+    "name": "Zwembad Baarlebossche",
+    "lat": 51.5902435,
+    "lon": 4.5366833,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Die Heygrave",
+    "lat": 51.6938841,
+    "lon": 5.2078397,
+    "leisure": "sports_centre",
+    "sport": "swimming;gymnasium",
+    "access": "",
+    "operator": "",
+    "website": "https://www.zwembaddieheygrave.nl/"
+  },
+  {
+    "name": "Laco sportcentrum Grave",
+    "lat": 51.7509398,
+    "lon": 5.7401463,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Sloterparkbad",
+    "lat": 52.3702428,
+    "lon": 4.8177016,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "De Waterthor",
+    "lat": 52.0657238,
+    "lon": 4.2483066,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Zwembad Coldenhove",
+    "lat": 52.093812,
+    "lon": 6.0456227,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "customers",
+    "operator": "",
+    "website": "https://www.zwembadcoldenhove.nl/"
+  },
+  {
+    "name": "Zwembad 't Molengors",
+    "lat": 51.8208118,
+    "lon": 4.2657964,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://www.zwembadmolengors.nl/"
+  },
+  {
+    "name": "50m-wedstrijdbad",
+    "lat": 51.3665206,
+    "lon": 6.1362652,
+    "leisure": "swimming_pool",
+    "sport": "",
+    "access": "yes",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Recreatiebad / Familiebad",
+    "lat": 51.3663172,
+    "lon": 6.1368482,
+    "leisure": "swimming_pool",
+    "sport": "",
+    "access": "yes",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Springkuil",
+    "lat": 51.3667634,
+    "lon": 6.136634,
+    "leisure": "swimming_pool",
+    "sport": "",
+    "access": "yes",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Zwembad Vakantiepark Molenvelden",
+    "lat": 51.4074105,
+    "lon": 5.3570125,
+    "leisure": "swimming_pool",
+    "sport": "",
+    "access": "yes",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Zwembad Hemrik",
+    "lat": 53.0281487,
+    "lon": 6.1381615,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Haestinge",
+    "lat": 51.5470366,
+    "lon": 4.0799398,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://www.tholen.nl/inwoners/cultuur-sport-en-vrije-tijd/zwembaden.html"
+  },
+  {
+    "name": "'t Centrum",
+    "lat": 51.7692267,
+    "lon": 4.4463596,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "De Sluispoel",
+    "lat": 52.8358352,
+    "lon": 4.8049767,
+    "leisure": "swimming_pool",
+    "sport": "",
+    "access": "yes",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Het Sweeltje",
+    "lat": 51.1310359,
+    "lon": 5.9572161,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Zwembad Schuagt",
+    "lat": 51.8937811,
+    "lon": 4.6436651,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://www.zwembadschuagt.nl"
+  },
+  {
+    "name": "zwembad De Dinge",
+    "lat": 53.4114673,
+    "lon": 6.693626,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://zwembadeneemsmond.nl/de-dinge"
+  },
+  {
+    "name": "Zwemcentrum Kollum",
+    "lat": 53.2810679,
+    "lon": 6.1496583,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Kwekkelstijn",
+    "lat": 51.7124658,
+    "lon": 5.3677246,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://www.kwekkelstijn.com"
+  },
+  {
+    "name": "Zwembad",
+    "lat": 51.6669616,
+    "lon": 4.0835357,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Het Marnix",
+    "lat": 52.3779397,
+    "lon": 4.8782938,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://www.hetmarnix.nl/"
+  },
+  {
+    "name": "Zwembad Electra",
+    "lat": 53.3129669,
+    "lon": 6.3521806,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://www.zwembadelectra.nl/"
+  },
+  {
+    "name": "Rozengaarde",
+    "lat": 51.9745733,
+    "lon": 6.3028935,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Sporthal 't Timpke",
+    "lat": 52.1103419,
+    "lon": 6.5244744,
+    "leisure": "sports_centre",
+    "sport": "swimming;volleyball;badminton",
+    "access": "",
+    "operator": "",
+    "website": "https://timpke.nl/"
+  },
+  {
+    "name": "Subtropisch zwembad & Wedstrijdbad",
+    "lat": 52.0370109,
+    "lon": 6.6311637,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "Marveld Recreatie",
+    "website": ""
+  },
+  {
+    "name": "Den Helder",
+    "lat": 52.007019,
+    "lon": 6.1543428,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Sportiom",
+    "lat": 51.7004331,
+    "lon": 5.3267268,
+    "leisure": "sports_centre",
+    "sport": "gymnastics;swimming;ice_skating",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "de Estafette",
+    "lat": 52.2750526,
+    "lon": 4.6325069,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "De Steense",
+    "lat": 52.8806838,
+    "lon": 6.0056123,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Zwembad 'de Wolfspoel'",
+    "lat": 52.5452773,
+    "lon": 6.4953229,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Sporthoeve",
+    "lat": 52.3432149,
+    "lon": 4.774402,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "Sportfondsen",
+    "website": "https://www.desporthoeve.nl"
+  },
+  {
+    "name": "De Sprank",
+    "lat": 51.5233152,
+    "lon": 5.9653161,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "yes",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Inge de Bruijn Sportfondsenbad",
+    "lat": 51.8531182,
+    "lon": 4.5103921,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "http://www.ingedebruijnsportfondsenbad.nl"
+  },
+  {
+    "name": "de Wildert",
+    "lat": 51.4648225,
+    "lon": 4.6639235,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "Optisport",
+    "website": "https://www.optisport.nl/zwembad-de-wildert-zundert"
+  },
+  {
+    "name": "Het Slagman",
+    "lat": 52.2362878,
+    "lon": 6.8768208,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "Gemeente Enschede",
+    "website": "https://sportaal.nl/zwemmen/"
+  },
+  {
+    "name": "De Vliegende Vaart",
+    "lat": 51.3179651,
+    "lon": 3.8439504,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Zwembad Hoek van Holland",
+    "lat": 51.9759813,
+    "lon": 4.1378066,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "Sportbedrijf Rotterdam",
+    "website": "https://www.sportbedrijfrotterdam.nl/locatie/zwembad-hoek-van-holland-hoekse-badje"
+  },
+  {
+    "name": "Bosbad Hoeven",
+    "lat": 51.570245,
+    "lon": 4.5619156,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "Molecaten",
+    "website": ""
+  },
+  {
+    "name": "Bio Vakantieoord doelgroepenbad",
+    "lat": 52.0139518,
+    "lon": 5.8301717,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "customers",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Optisport MFC De Kreek",
+    "lat": 51.7764673,
+    "lon": 5.3341518,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://www.optisport.nl/kreek/"
+  },
+  {
+    "name": "Zwembad De Wiel",
+    "lat": 52.7828147,
+    "lon": 4.7787745,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "Sportfondsen",
+    "website": ""
+  },
+  {
+    "name": "Tuindorpbad",
+    "lat": 52.2555186,
+    "lon": 6.7782305,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Zwembad De Slagen",
+    "lat": 52.6655286,
+    "lon": 6.8808994,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "De Witte Brug",
+    "lat": 52.5458509,
+    "lon": 4.6690277,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Zwembad De Bronspot",
+    "lat": 50.9484284,
+    "lon": 5.9708218,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://www.zwembaddebronspot.nl/"
+  },
+  {
+    "name": "Sportcentrum Vondersweijde",
+    "lat": 52.3109194,
+    "lon": 6.9165777,
+    "leisure": "sports_centre",
+    "sport": "volleyball;squash;swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://www.vondersweijde.nl"
+  },
+  {
+    "name": "Glanerbrook",
+    "lat": 50.9664715,
+    "lon": 5.8333034,
+    "leisure": "sports_centre",
+    "sport": "fitness;swimming;cycling;ice_hockey;ice_skating",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Zwemschool Van Rheenen",
+    "lat": 52.3895161,
+    "lon": 5.2481606,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "zwembad De Dolfijn",
+    "lat": 52.7236672,
+    "lon": 6.4930721,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://www.hoogeveen.nl/zwembaddedolfijn/"
+  },
+  {
+    "name": "Aqualaren",
+    "lat": 53.0891567,
+    "lon": 6.6805709,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://aqualaren.nl/"
+  },
+  {
+    "name": "Recreatiebad Stappegoor",
+    "lat": 51.543014,
+    "lon": 5.0761154,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "Municipal",
+    "website": ""
+  },
+  {
+    "name": "Zwembad IJzeren Man",
+    "lat": 51.2423338,
+    "lon": 5.671188,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Zwemparadijs",
+    "lat": 51.5885543,
+    "lon": 3.7162197,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "permissive",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Zwembad",
+    "lat": 51.6307563,
+    "lon": 4.8317794,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "customers",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Waterspoor",
+    "lat": 51.5159304,
+    "lon": 5.0601528,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "customers",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Zwembad 's Heeren Loo",
+    "lat": 52.3141685,
+    "lon": 5.6032871,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "private",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Zwembad de Dolfijn",
+    "lat": 52.2005919,
+    "lon": 4.4449816,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://zwembadrijnsburg.nl/"
+  },
+  {
+    "name": "Omnium",
+    "lat": 51.5099649,
+    "lon": 3.896038,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Zwembad Bernissebad",
+    "lat": 51.8687309,
+    "lon": 4.234699,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://bernissebad-heenvliet.nl/"
+  },
+  {
+    "name": "Zwembad De Hoorn",
+    "lat": 52.1390899,
+    "lon": 4.6480806,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://www.dethermen2.nl/accommodatie/de-hoorn"
+  },
+  {
+    "name": "Zwembad De Hooghe Waerd",
+    "lat": 52.0240035,
+    "lon": 5.055249,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "De Kuilart",
+    "lat": 52.9019515,
+    "lon": 5.468147,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "customers",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Sportcentrum De Kalkwijck",
+    "lat": 53.1550228,
+    "lon": 6.762334,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "http://www.dekalkwijck.nl/"
+  },
+  {
+    "name": "Merwestein",
+    "lat": 52.0263811,
+    "lon": 5.0920585,
+    "leisure": "sports_centre",
+    "sport": "swimming;indoor_hockey;basketball;volleyball",
+    "access": "",
+    "operator": "Gemeente Nieuwegein",
+    "website": "https://www.merwestein.nl/"
+  },
+  {
+    "name": "De MIX",
+    "lat": 52.0259607,
+    "lon": 5.09248,
+    "leisure": "sports_centre",
+    "sport": "swimming;indoor_hockey;basketball;volleyball",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Sporthal en zwembad Kalverdijkje",
+    "lat": 53.211562,
+    "lon": 5.8252148,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Zwembad \"Het Elderink\"",
+    "lat": 52.0441014,
+    "lon": 6.305328,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://www.zwembadhetelderink.nl/"
+  },
+  {
+    "name": "Aqua Mundo",
+    "lat": 52.2600315,
+    "lon": 5.4015129,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "LACO Sportcentrum",
+    "lat": 51.6292763,
+    "lon": 5.5377836,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "De Ganzenwiel",
+    "lat": 51.6933065,
+    "lon": 4.8873583,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://www.deganzewiel.nl/"
+  },
+  {
+    "name": "Pisina Olimpico Roly Bisslik",
+    "lat": 12.448024,
+    "lon": -69.9448996,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Zwemkasteel Nienoord",
+    "lat": 53.1677461,
+    "lon": 6.3975325,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "Landgoed Nienoord",
+    "website": "https://www.landgoednienoord.nl/zwemkasteel/"
+  },
+  {
+    "name": "de Rozenburcht",
+    "lat": 51.902533,
+    "lon": 4.2355847,
+    "leisure": "sports_centre",
+    "sport": "omnisport;swimming",
+    "access": "",
+    "operator": "",
+    "website": "http://www.de-rozenburcht.nl/"
+  },
+  {
+    "name": "Zwembad Wotterwille",
+    "lat": 53.1441066,
+    "lon": 6.2609745,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "In de Dennen",
+    "lat": 52.1096568,
+    "lon": 6.3384603,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://zwembad-indedennen.nl/"
+  },
+  {
+    "name": "'t Baafje",
+    "lat": 52.608206,
+    "lon": 4.68757,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "De Zeven Morgen",
+    "lat": 51.8458543,
+    "lon": 5.4345226,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Amerena",
+    "lat": 52.1598325,
+    "lon": 5.4131298,
+    "leisure": "sports_centre",
+    "sport": "swimming;volleyball;fitness",
+    "access": "",
+    "operator": "s.r.o. Amersfoort",
+    "website": ""
+  },
+  {
+    "name": "Zwembad",
+    "lat": 51.6604934,
+    "lon": 5.0620249,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Sportpark de Blauwe Kamp",
+    "lat": 53.067239,
+    "lon": 5.9913573,
+    "leisure": "sports_centre",
+    "sport": "soccer;swimming;beachvolleyball;boules",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "'t Kuipke",
+    "lat": 51.7313435,
+    "lon": 5.5227937,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Sport- en recreatiebad Dol-fijn",
+    "lat": 51.9205449,
+    "lon": 4.2707799,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Swimming Pool Area Santa Barbara Golf & Beach Resort",
+    "lat": 12.0649459,
+    "lon": -68.8515422,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Zwembad Aquamar",
+    "lat": 52.2016942,
+    "lon": 4.4117261,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Laco sportcentrum Oude IJsselstreek",
+    "lat": 51.9147569,
+    "lon": 6.370183,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "customers",
+    "operator": "Laco",
+    "website": "https://www.laco.eu/"
+  },
+  {
+    "name": "De Steur",
+    "lat": 52.5533222,
+    "lon": 5.9108098,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Zwembad De Fluit",
+    "lat": 52.0932141,
+    "lon": 4.3952188,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://www.defluit.nl/"
+  },
+  {
+    "name": "Zwembad De Slag",
+    "lat": 52.5690797,
+    "lon": 6.6297272,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Zwembad 't Wilgerak",
+    "lat": 51.9431292,
+    "lon": 4.8599097,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Sportboulevard",
+    "lat": 52.5694082,
+    "lon": 6.6283624,
+    "leisure": "sports_centre",
+    "sport": "athletics;beachvolleyball;gymnastics;swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Zwembad Hattemat",
+    "lat": 52.6092321,
+    "lon": 6.6709232,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Zwembad De Fuut",
+    "lat": 52.0517749,
+    "lon": 4.733889,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "yes",
+    "operator": "",
+    "website": "https://www.zwembaddefuut.nl/"
+  },
+  {
+    "name": "Zwembad De Berken",
+    "lat": 51.2893696,
+    "lon": 6.0742199,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Zidewinde",
+    "lat": 51.6750696,
+    "lon": 5.0090748,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://zwemmeninwaalwijk.nl/zidewinde/"
+  },
+  {
+    "name": "De Bosselaar",
+    "lat": 51.6393268,
+    "lon": 4.6067,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "customers",
+    "operator": "Optisport",
+    "website": ""
+  },
+  {
+    "name": "Boschbad Apeldoorn",
+    "lat": 52.216087,
+    "lon": 5.9239852,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "customers",
+    "operator": "Accres Apeldoorn BV",
+    "website": "https://www.boschbad.nl/"
+  },
+  {
+    "name": "Aquacentrum Malkander",
+    "lat": 52.1840134,
+    "lon": 5.967382,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "Accres",
+    "website": "https://malkander.nl/"
+  },
+  {
+    "name": "Den Donk",
+    "lat": 51.5704716,
+    "lon": 5.1781989,
+    "leisure": "sports_centre",
+    "sport": "basketball;badminton;swimming;climbing",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Aquapelle",
+    "lat": 51.9314281,
+    "lon": 4.594502,
+    "leisure": "sports_centre",
+    "sport": "swimming;multi",
+    "access": "",
+    "operator": "",
+    "website": "https://www.sportiefcapelle.nl/zwembad/"
+  },
+  {
+    "name": "Pisina Bennie Leito",
+    "lat": 12.1065502,
+    "lon": -68.9418041,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Het knopenbad",
+    "lat": 52.0504086,
+    "lon": 4.9505466,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://knopenbad.nl/"
+  },
+  {
+    "name": "Overdekt Zwembad",
+    "lat": 51.3853538,
+    "lon": 3.4581812,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Het Kleine Badje",
+    "lat": 51.8538564,
+    "lon": 4.4250872,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://vzr-rhoon.nl"
+  },
+  {
+    "name": "Vie",
+    "lat": 50.8665244,
+    "lon": 6.0588437,
+    "leisure": "sports_centre",
+    "sport": "swimming;volleyball;basketball;multi",
+    "access": "",
+    "operator": "",
+    "website": "https://vie-kerkrade.nl/"
+  },
+  {
+    "name": "Buitenbad Groot Venlo",
+    "lat": 51.365822,
+    "lon": 6.1362545,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Peuterbad",
+    "lat": 51.3661309,
+    "lon": 6.1362941,
+    "leisure": "swimming_pool",
+    "sport": "",
+    "access": "yes",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Zwembad De Kulk",
+    "lat": 51.9165105,
+    "lon": 4.3404989,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "yes",
+    "operator": "",
+    "website": "https://www.dekulk.nl/"
+  },
+  {
+    "name": "Buitenbad",
+    "lat": 52.2455751,
+    "lon": 6.8542748,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Zoutwaterbad K.P. Zijl",
+    "lat": 53.3344448,
+    "lon": 6.7420524,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://www.zoutwaterbad.info/"
+  },
+  {
+    "name": "Openluchtbad De Papiermolen",
+    "lat": 53.2029588,
+    "lon": 6.5689272,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://sport050.nl/sportlocaties/openluchtbad-de-papiermolen/"
+  },
+  {
+    "name": "Bosbad Hoogersmilde",
+    "lat": 52.9048487,
+    "lon": 6.3826197,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "Stichting Recreatie Hoogersmilde",
+    "website": "https://www.facebook.com/people/Bosbad-Hoogersmilde/100057358873779/"
+  },
+  {
+    "name": "Klarenbeek",
+    "lat": 51.994808,
+    "lon": 5.9224214,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Zwembad de Hoge Vier",
+    "lat": 53.3295047,
+    "lon": 6.511488,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://zwembad-dehogevier.nl/"
+  },
+  {
+    "name": "Wantijbad",
+    "lat": 51.8154571,
+    "lon": 4.6935282,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://wantijbad.nl"
+  },
+  {
+    "name": "De Loete",
+    "lat": 51.994043,
+    "lon": 4.78294,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://www.vlisterbaden.nl/"
+  },
+  {
+    "name": "Het Sporthuis Abcoude",
+    "lat": 52.2769114,
+    "lon": 4.9775815,
+    "leisure": "sports_centre",
+    "sport": "swimming;multi",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "de Vrije slag",
+    "lat": 52.0063882,
+    "lon": 5.6584996,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Ons Statenbad",
+    "lat": 52.0190621,
+    "lon": 4.8724612,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "De Bosberg",
+    "lat": 51.2303601,
+    "lon": 6.0696835,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Sportfondsenbad Nijmegen-West",
+    "lat": 51.8378785,
+    "lon": 5.8274388,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://www.sportfondsenbadnijmegenwest.nl/"
+  },
+  {
+    "name": "Optisport Zwembad de Abelen",
+    "lat": 52.568932,
+    "lon": 5.6347651,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "customers",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "De Bonte Wever",
+    "lat": 52.9840952,
+    "lon": 6.5428525,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://www.debontewever.nl/"
+  },
+  {
+    "name": "Sportcentrum Wethouder F.B. Duran",
+    "lat": 52.336199,
+    "lon": 4.9583755,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Sportcentrum Wethouder F.B. Duran",
+    "lat": 52.3363516,
+    "lon": 4.958661,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Leeghwaterbad",
+    "lat": 52.5006453,
+    "lon": 4.9722677,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "Spurd",
+    "website": "https://www.leeghwaterbad.nl/"
+  },
+  {
+    "name": "It Gryn",
+    "lat": 53.2616416,
+    "lon": 5.7709349,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "bv SPORT",
+    "website": "https://www.bvsport.nl/accommodation/zwembad-it-gryn/"
+  },
+  {
+    "name": "Vliegende Vaart",
+    "lat": 51.2606754,
+    "lon": 3.9218743,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Openluchtbad Zaamslag",
+    "lat": 51.3152633,
+    "lon": 3.9111175,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Doelgroepenbad",
+    "lat": 52.3383968,
+    "lon": 4.9023801,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "Stadsdeel Zuid",
+    "website": ""
+  },
+  {
+    "name": "'t Derde Haad",
+    "lat": 53.1634686,
+    "lon": 5.4285486,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "Optisport",
+    "website": "https://www.optisport.nl/zwembad-t-derde-haad-harlingen"
+  },
+  {
+    "name": "De Ringberg",
+    "lat": 53.1705115,
+    "lon": 6.972156,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Olde Vechte",
+    "lat": 52.5156725,
+    "lon": 6.4293045,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Openluchtzwembad Hoogkerk",
+    "lat": 53.2173078,
+    "lon": 6.5044312,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "De Achterberg",
+    "lat": 52.3986811,
+    "lon": 6.3623304,
+    "leisure": "sports_centre",
+    "sport": "soccer;tennis;swimming;handball",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Zwembad \"De Groene Jager\"",
+    "lat": 52.471981,
+    "lon": 6.4658371,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "Stichting Zwembad de Groene Jager",
+    "website": "https://www.zwembaddegroenejager.nl/"
+  },
+  {
+    "name": "Aquapark De Zandstuve",
+    "lat": 52.461462,
+    "lon": 6.5506198,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "Zwembad De Stamper (Vriezenveen)",
+    "website": "https://zwembaddestamper.nl/aquapark-de-zandstuve"
+  },
+  {
+    "name": "Zwembad de Meermin",
+    "lat": 51.582315,
+    "lon": 4.3258692,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://zwembaddemeermin.nl/"
+  },
+  {
+    "name": "'t Ploensjbad",
+    "lat": 51.129876,
+    "lon": 6.0705367,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://www.ploensjbad.com"
+  },
+  {
+    "name": "De Sawn Doarpen",
+    "lat": 53.2442339,
+    "lon": 5.8928743,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Zwembad De Put",
+    "lat": 52.0448476,
+    "lon": 4.3195534,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "Rijswijkse Zwem Vereniging (RZV)",
+    "website": ""
+  },
+  {
+    "name": "Zwembad De Schotsman",
+    "lat": 51.5698675,
+    "lon": 3.6601644,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "customers",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Zwembad de Heuvelrand",
+    "lat": 52.191051,
+    "lon": 5.6170823,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "Optisport",
+    "website": ""
+  },
+  {
+    "name": "Zwembad de Waterlelie",
+    "lat": 52.2556205,
+    "lon": 4.7675386,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": "https://www.esa-aalsmeer.nl/de-waterlelie"
+  },
+  {
+    "name": "Zwembad de Meerkamp",
+    "lat": 52.2880705,
+    "lon": 4.851866,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "AmstelveenSport",
+    "website": "https://amstelveensport.nl/zwembad-de-meerkamp/"
+  },
+  {
+    "name": "Zwembad De Berkel",
+    "lat": 52.1546067,
+    "lon": 6.3022289,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "De Bever",
+    "lat": 52.6598294,
+    "lon": 4.7868161,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "",
+    "operator": "",
+    "website": ""
+  },
+  {
+    "name": "Oosterbosbad",
+    "lat": 52.147217,
+    "lon": 5.5786812,
+    "leisure": "sports_centre",
+    "sport": "swimming",
+    "access": "customers",
+    "operator": "",
+    "website": ""
+  }
+]

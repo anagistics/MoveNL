@@ -1,0 +1,152 @@
+[
+  {
+    "name": "Arnhem Centraal",
+    "lat": 51.9844332,
+    "lon": 5.9011598,
+    "operator": "",
+    "network": "",
+    "train": "yes",
+    "uic_ref": "8400071",
+    "wikidata": "Q800399"
+  },
+  {
+    "name": "Utrecht Centraal",
+    "lat": 52.0893925,
+    "lon": 5.109821,
+    "operator": "",
+    "network": "",
+    "train": "yes",
+    "uic_ref": "8400621",
+    "wikidata": "Q575655"
+  },
+  {
+    "name": "Amersfoort Centraal",
+    "lat": 52.153898,
+    "lon": 5.3740976,
+    "operator": "",
+    "network": "",
+    "train": "yes",
+    "uic_ref": "8400055",
+    "wikidata": "Q49854"
+  },
+  {
+    "name": "Den Haag Centraal",
+    "lat": 52.0808443,
+    "lon": 4.3245487,
+    "operator": "",
+    "network": "",
+    "train": "yes",
+    "uic_ref": "",
+    "wikidata": "Q200704"
+  },
+  {
+    "name": "Rotterdam Centraal",
+    "lat": 51.9250574,
+    "lon": 4.4692289,
+    "operator": "",
+    "network": "",
+    "train": "yes",
+    "uic_ref": "8400530",
+    "wikidata": "Q801388"
+  },
+  {
+    "name": "Amsterdam Centraal",
+    "lat": 52.378901,
+    "lon": 4.9005805,
+    "operator": "NS",
+    "network": "",
+    "train": "yes",
+    "uic_ref": "8400058",
+    "wikidata": "Q50719"
+  },
+  {
+    "name": "Rotterdam Centraal",
+    "lat": 51.9239677,
+    "lon": 4.4697987,
+    "operator": "",
+    "network": "",
+    "train": "",
+    "uic_ref": "",
+    "wikidata": "Q801388"
+  },
+  {
+    "name": "Den Haag Centraal",
+    "lat": 52.0807633,
+    "lon": 4.3255311,
+    "operator": "",
+    "network": "",
+    "train": "",
+    "uic_ref": "",
+    "wikidata": "Q200704"
+  },
+  {
+    "name": "Centraal Station",
+    "lat": 52.3774316,
+    "lon": 4.9009578,
+    "operator": "GVB",
+    "network": "Amsterdamse metro",
+    "train": "",
+    "uic_ref": "",
+    "wikidata": "Q9719923"
+  },
+  {
+    "name": "Eindhoven Centraal",
+    "lat": 51.4429623,
+    "lon": 5.4795265,
+    "operator": "",
+    "network": "",
+    "train": "yes",
+    "uic_ref": "",
+    "wikidata": "Q689942"
+  },
+  {
+    "name": "Centraal Station",
+    "lat": 52.0810996,
+    "lon": 4.3242084,
+    "operator": "HTM",
+    "network": "",
+    "train": "",
+    "uic_ref": "",
+    "wikidata": "Q200704"
+  },
+  {
+    "name": "Centraal Station",
+    "lat": 52.3791977,
+    "lon": 4.9009058,
+    "operator": "Gemeentelijk Vervoerbedrijf",
+    "network": "",
+    "train": "",
+    "uic_ref": "",
+    "wikidata": "Q9719923"
+  },
+  {
+    "name": "Leiden Centraal",
+    "lat": 52.166319,
+    "lon": 4.482286,
+    "operator": "",
+    "network": "",
+    "train": "yes",
+    "uic_ref": "",
+    "wikidata": "Q801075"
+  },
+  {
+    "name": "Nienoord Centraal",
+    "lat": 53.168484,
+    "lon": 6.3963253,
+    "operator": "",
+    "network": "Nienoord Spoorwegen",
+    "train": "yes",
+    "uic_ref": "",
+    "wikidata": ""
+  },
+  {
+    "name": "Arnhem Centraal",
+    "lat": 51.9850545,
+    "lon": 5.8996976,
+    "operator": "",
+    "network": "",
+    "train": "",
+    "uic_ref": "",
+    "wikidata": "Q800399"
+  }
+]

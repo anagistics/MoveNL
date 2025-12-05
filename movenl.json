@@ -1,0 +1,270 @@
+[
+  {
+    "city": "Eindhoven",
+    "population": 235923,
+    "lat": 51.4392648,
+    "lon": 5.478633,
+    "intercity_stations": [
+      {
+        "name": "Eindhoven Centraal",
+        "lat": 51.4429623,
+        "lon": 5.4795265,
+        "operator": "",
+        "network": "",
+        "train": "yes",
+        "uic_ref": "",
+        "wikidata": "Q689942",
+        "distance_km": 0.42
+      }
+    ],
+    "wikidata": "Q9832",
+    "universities": [
+      {
+        "name": "Technische Universiteit Eindhoven",
+        "lat": 51.4488305,
+        "lon": 5.4902033,
+        "wikidata": "Q280824",
+        "website": "https://www.tue.nl",
+        "distance_km": 1.33
+      }
+    ],
+    "swimming_pools": [
+      {
+        "name": "ir. Ottenbad",
+        "lat": 51.4765361,
+        "lon": 5.4566991,
+        "leisure": "sports_centre",
+        "sport": "swimming",
+        "access": "",
+        "operator": "",
+        "website": "https://www.eindhovensport.nl/zwemmen/ir-ottenbad",
+        "distance_km": 4.41
+      }
+    ]
+  },
+  {
+    "city": "Utrecht",
+    "population": 295591,
+    "lat": 52.0907006,
+    "lon": 5.1215634,
+    "intercity_stations": [
+      {
+        "name": "Utrecht Centraal",
+        "lat": 52.0893925,
+        "lon": 5.109821,
+        "operator": "",
+        "network": "",
+        "train": "yes",
+        "uic_ref": "8400621",
+        "wikidata": "Q575655",
+        "distance_km": 0.82
+      }
+    ],
+    "wikidata": "Q803",
+    "universities": [
+      {
+        "name": "Protestantse Theologische Universiteit",
+        "lat": 52.0930277,
+        "lon": 5.1227797,
+        "wikidata": "Q1960654",
+        "website": "https://www.pthu.nl/",
+        "distance_km": 0.27
+      },
+      {
+        "name": "University College Utrecht",
+        "lat": 52.0832758,
+        "lon": 5.1478185,
+        "wikidata": "Q658989",
+        "website": "https://www.uu.nl/bachelors/university-college-utrecht",
+        "distance_km": 1.97
+      }
+    ],
+    "swimming_pools": [
+      {
+        "name": "Zwembad de Krommerijn",
+        "lat": 52.0828796,
+        "lon": 5.157807,
+        "leisure": "sports_centre",
+        "sport": "swimming",
+        "access": "",
+        "operator": "",
+        "website": "",
+        "distance_km": 2.62
+      },
+      {
+        "name": "Zwembad De Kwakel",
+        "lat": 52.1156203,
+        "lon": 5.1032869,
+        "leisure": "sports_centre",
+        "sport": "swimming",
+        "access": "",
+        "operator": "",
+        "website": "https://www.utrecht.nl/wonen-en-leven/vrije-tijd/zwembaden/zwembad-de-kwakel",
+        "distance_km": 3.04
+      },
+      {
+        "name": "Zwembad Blauwkapel",
+        "lat": 52.1208291,
+        "lon": 5.1422911,
+        "leisure": "sports_centre",
+        "sport": "swimming",
+        "access": "",
+        "operator": "",
+        "website": "https://www.optisport.nl/blauwkapel",
+        "distance_km": 3.64
+      },
+      {
+        "name": "Zwembad De Kikker",
+        "lat": 52.1303188,
+        "lon": 5.1306667,
+        "leisure": "sports_centre",
+        "sport": "swimming",
+        "access": "private",
+        "operator": "",
+        "website": "https://www.zwembaddekikker.nl/",
+        "distance_km": 4.45
+      }
+    ]
+  },
+  {
+    "city": "Leiden",
+    "population": 123753,
+    "lat": 52.1594747,
+    "lon": 4.4908843,
+    "intercity_stations": [
+      {
+        "name": "Leiden Centraal",
+        "lat": 52.166319,
+        "lon": 4.482286,
+        "operator": "",
+        "network": "",
+        "train": "yes",
+        "uic_ref": "",
+        "wikidata": "Q801075",
+        "distance_km": 0.96
+      }
+    ],
+    "wikidata": "Q43631",
+    "universities": [
+      {
+        "name": "Universiteit Leiden",
+        "lat": 52.1624022,
+        "lon": 4.4732883,
+        "wikidata": "Q156598",
+        "website": "https://www.universiteitleiden.nl/",
+        "distance_km": 1.24
+      }
+    ],
+    "swimming_pools": [
+      {
+        "name": "Zwembad De Vliet",
+        "lat": 52.1395444,
+        "lon": 4.4827065,
+        "leisure": "sports_centre",
+        "sport": "swimming",
+        "access": "",
+        "operator": "",
+        "website": "https://www.sportinleiden.nl/zwemmen/locaties/buitenbad-de-vliet/",
+        "distance_km": 2.29
+      },
+      {
+        "name": "Binnenbad de Vliet",
+        "lat": 52.1389984,
+        "lon": 4.4813779,
+        "leisure": "swimming_pool",
+        "sport": "",
+        "access": "yes",
+        "operator": "",
+        "website": "https://sportinleiden.nl/zwemmen/locaties/zwembad-de-vliet",
+        "distance_km": 2.37
+      },
+      {
+        "name": "Zwembad Het Wedde",
+        "lat": 52.1393083,
+        "lon": 4.4521315,
+        "leisure": "sports_centre",
+        "sport": "swimming",
+        "access": "",
+        "operator": "",
+        "website": "https://www.zwembadhetwedde.nl/",
+        "distance_km": 3.47
+      },
+      {
+        "name": "Zwembad Haasbroek",
+        "lat": 52.1172259,
+        "lon": 4.502173,
+        "leisure": "sports_centre",
+        "sport": "swimming",
+        "access": "",
+        "operator": "",
+        "website": "",
+        "distance_km": 4.76
+      }
+    ]
+  },
+  {
+    "city": "Amersfoort",
+    "population": 145699,
+    "lat": 52.1562499,
+    "lon": 5.3896944,
+    "intercity_stations": [
+      {
+        "name": "Amersfoort Centraal",
+        "lat": 52.153898,
+        "lon": 5.3740976,
+        "operator": "",
+        "network": "",
+        "train": "yes",
+        "uic_ref": "8400055",
+        "wikidata": "Q49854",
+        "distance_km": 1.1
+      }
+    ],
+    "wikidata": "Q992",
+    "universities": [
+      {
+        "name": "SOMT University of Physiotherapy",
+        "lat": 52.1730483,
+        "lon": 5.4124562,
+        "wikidata": "Q50038849",
+        "website": "https://www.somt.nl/",
+        "distance_km": 2.43
+      }
+    ],
+    "swimming_pools": [
+      {
+        "name": "Amerena",
+        "lat": 52.1598325,
+        "lon": 5.4131298,
+        "leisure": "sports_centre",
+        "sport": "swimming;volleyball;fitness",
+        "access": "",
+        "operator": "s.r.o. Amersfoort",
+        "website": "",
+        "distance_km": 1.65
+      },
+      {
+        "name": "Zwembad Octopus",
+        "lat": 52.1258403,
+        "lon": 5.4118104,
+        "leisure": "sports_centre",
+        "sport": "swimming",
+        "access": "",
+        "operator": "SRO",
+        "website": "https://www.octopus.nu",
+        "distance_km": 3.7
+      },
+      {
+        "name": "R&A Sports & Swimming",
+        "lat": 52.1865883,
+        "lon": 5.4197739,
+        "leisure": "sports_centre",
+        "sport": "swimming",
+        "access": "",
+        "operator": "",
+        "website": "",
+        "distance_km": 3.95
+      }
+    ]
+  }
+]
