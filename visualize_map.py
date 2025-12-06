@@ -32,6 +32,45 @@ def create_map(data):
         tiles="OpenStreetMap"
     )
 
+    # Add terrain/elevation tile layers
+    folium.TileLayer(
+        tiles='https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png',
+        attr='Map data: &copy; OpenStreetMap contributors, SRTM | Map style: &copy; OpenTopoMap',
+        name='Topographic (Elevation)',
+        overlay=False,
+        control=True
+    ).add_to(m)
+
+    folium.TileLayer(
+        tiles='https://stamen-tiles-{s}.a.ssl.fastly.net/terrain/{z}/{x}/{y}.jpg',
+        attr='Map tiles by Stamen Design, under CC BY 3.0. Data by OpenStreetMap, under ODbL.',
+        name='Terrain',
+        overlay=False,
+        control=True
+    ).add_to(m)
+
+    folium.TileLayer(
+        tiles='https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}',
+        attr='Esri',
+        name='Satellite',
+        overlay=False,
+        control=True
+    ).add_to(m)
+
+    # Add flood risk overlay from PDOK
+    flood_risk_wms = folium.WmsTileLayer(
+        url='https://service.pdok.nl/rws/overstromingen-risicogebied/wms/v1_0',
+        layers='NZ.RiskZone',
+        name='Flood Risk Areas (PDOK)',
+        fmt='image/png',
+        transparent=True,
+        overlay=True,
+        control=True,
+        attr='Rijkswaterstaat via PDOK',
+        show=True
+    )
+    flood_risk_wms.add_to(m)
+
     # Create feature groups for different layers (can be toggled)
     cities_group = folium.FeatureGroup(name="Cities", show=True)
     stations_group = folium.FeatureGroup(name="Train Stations", show=True)
@@ -47,29 +86,84 @@ def create_map(data):
         "pool": "lightblue"
     }
 
+    # Determine color scale for house prices
+    house_prices = [c.get("avg_house_price") for c in data if c.get("avg_house_price")]
+    if house_prices:
+        min_price = min(house_prices)
+        max_price = max(house_prices)
+
+        def get_price_color(price):
+            """Get color based on house price."""
+            if price is None:
+                return "gray"
+            # Green (cheap) to red (expensive)
+            if price < 300000:
+                return "green"
+            elif price < 400000:
+                return "lightgreen"
+            elif price < 500000:
+                return "orange"
+            else:
+                return "red"
+    else:
+        def get_price_color(price):
+            return "red"
+
     # Process each city
     for city_data in data:
         city_name = city_data["city"]
         city_lat = city_data["lat"]
         city_lon = city_data["lon"]
         population = city_data["population"]
+        elevation = city_data.get("elevation")
+        house_price = city_data.get("avg_house_price")
+        temp_increase = city_data.get("temp_increase_2050")
+        summer_temp_2050 = city_data.get("summer_avg_2050")
 
-        # City marker (larger, distinct)
+        # Build elevation display
+        elevation_html = ""
+        elevation_tooltip = ""
+        if elevation is not None:
+            elevation_html = f"<p style='margin: 5px 0;'><b>Elevation:</b> {elevation:.1f} m</p>"
+            elevation_tooltip = f", {elevation:.1f}m"
+
+        # Build house price display
+        house_price_html = ""
+        if house_price:
+            house_price_html = f"<p style='margin: 5px 0;'><b>Avg House Price:</b> €{house_price:,.0f}</p>"
+
+        # Build temperature projection display
+        temp_html = ""
+        if temp_increase and summer_temp_2050:
+            temp_html = f"""
+            <p style='margin: 5px 0;'><b>Climate 2050:</b></p>
+            <p style='margin: 3px 0 3px 20px;'>• Temperature increase: +{temp_increase}°C</p>
+            <p style='margin: 3px 0 3px 20px;'>• Summer avg: {summer_temp_2050}°C</p>
+            """
+
+        # City marker (color-coded by house price)
+        marker_color = get_price_color(house_price)
+
         city_popup = f"""
-        <div style="font-family: Arial; min-width: 200px;">
+        <div style="font-family: Arial; min-width: 220px;">
             <h3 style="margin: 0 0 10px 0; color: #d63031;">{city_name}</h3>
             <p style="margin: 5px 0;"><b>Population:</b> {population:,}</p>
-            <p style="margin: 5px 0;"><b>Stations:</b> {len(city_data.get('intercity_stations', []))}</p>
-            <p style="margin: 5px 0;"><b>Universities:</b> {len(city_data.get('universities', []))}</p>
-            <p style="margin: 5px 0;"><b>Swimming Pools:</b> {len(city_data.get('swimming_pools', []))}</p>
+            {elevation_html}
+            {house_price_html}
+            {temp_html}
+            <hr style="margin: 10px 0; border: none; border-top: 1px solid #ddd;">
+            <p style="margin: 5px 0;"><b>Facilities:</b></p>
+            <p style="margin: 3px 0 3px 15px;">• Stations: {len(city_data.get('intercity_stations', []))}</p>
+            <p style="margin: 3px 0 3px 15px;">• Universities: {len(city_data.get('universities', []))}</p>
+            <p style="margin: 3px 0 3px 15px;">• Swimming Pools: {len(city_data.get('swimming_pools', []))}</p>
         </div>
         """
 
         folium.Marker(
             location=[city_lat, city_lon],
-            popup=folium.Popup(city_popup, max_width=300),
-            tooltip=f"{city_name} ({population:,} inhabitants)",
-            icon=folium.Icon(color=colors["city"], icon="home", prefix="fa")
+            popup=folium.Popup(city_popup, max_width=350),
+            tooltip=f"{city_name} ({population:,} inhabitants{elevation_tooltip})",
+            icon=folium.Icon(color=marker_color, icon="home", prefix="fa")
         ).add_to(cities_group)
 
         # Add train stations
@@ -194,18 +288,29 @@ def create_map(data):
     # Add title/legend
     title_html = '''
     <div style="position: fixed;
-                top: 10px; left: 60px; width: 400px; height: auto;
+                top: 10px; left: 60px; width: 450px; height: auto;
                 background-color: white; border: 2px solid grey; z-index: 9999;
                 font-size: 14px; padding: 10px; border-radius: 5px; box-shadow: 2px 2px 6px rgba(0,0,0,0.3);">
-        <h4 style="margin: 0 0 10px 0;">Dutch Cities with University Access</h4>
-        <p style="margin: 5px 0; font-size: 12px;">
-            <i class="fa fa-home" style="color: red;"></i> Cities (< 300k pop.) |
+        <h4 style="margin: 0 0 10px 0;">Dutch Cities - Climate & Housing Analysis</h4>
+
+        <p style="margin: 8px 0 4px 0; font-weight: bold; font-size: 12px;">Facilities:</p>
+        <p style="margin: 2px 0; font-size: 11px;">
             <i class="fa fa-train" style="color: blue;"></i> Train Stations |
             <i class="fa fa-graduation-cap" style="color: green;"></i> Universities |
             <i class="fa fa-swimmer" style="color: lightblue;"></i> Swimming Pools
         </p>
-        <p style="margin: 5px 0; font-size: 11px; color: #666;">
-            Click markers for details. Toggle layers using the control panel.
+
+        <p style="margin: 8px 0 4px 0; font-weight: bold; font-size: 12px;">City Markers (by House Price):</p>
+        <p style="margin: 2px 0; font-size: 11px;">
+            <i class="fa fa-home" style="color: green;"></i> < €300k |
+            <i class="fa fa-home" style="color: lightgreen;"></i> €300-400k |
+            <i class="fa fa-home" style="color: orange;"></i> €400-500k |
+            <i class="fa fa-home" style="color: red;"></i> > €500k
+        </p>
+
+        <p style="margin: 8px 0 0 0; font-size: 10px; color: #666; font-style: italic;">
+            Includes: flood risk zones, house prices, 2050 climate projections<br/>
+            Click markers for detailed info. Toggle layers in control panel.
         </p>
     </div>
     '''

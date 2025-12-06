@@ -1,5 +1,13 @@
-City,Inhabitants,University,Number of Pools
-Amersfoort,145699,SOMT University of Physiotherapy,3
-Eindhoven,235923,Technische Universiteit Eindhoven,1
-Leiden,123753,Universiteit Leiden,4
-Utrecht,295591,"Protestantse Theologische Universiteit, University College Utrecht",4
+City,Inhabitants,Elevation (m),University,Number of Pools
+Amersfoort,145699,,SOMT University of Physiotherapy,3
+Apeldoorn,141107,,Wittenborg University,4
+Delft,101386,,"Technische Universiteit Delft, Leiden University College The Hague",4
+Ede,123550,,Wageningen University & Research,2
+Eindhoven,235923,,Technische Universiteit Eindhoven,1
+Enschede,151041,42.0,Universiteit Twente,2
+Groningen,201242,,Rijksuniversiteit Groningen,4
+Leiden,123753,,Universiteit Leiden,4
+Maastricht,120105,,"University of Maastricht Faculty of Law, University College Maastricht",2
+Nijmegen,176731,,Radboud Universiteit,5
+Tilburg,199128,,Tilburg University,4
+Utrecht,295591,,"Protestantse Theologische Universiteit, University College Utrecht",4

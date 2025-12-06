@@ -130,8 +130,6 @@ class DutchIntercityFinder:
             for element in data.get("elements", []):
                 tags = element.get("tags", {})
                 name = tags.get("name", "")
-                if not ("centraal" in name.lower() or "central" in name.lower()):
-                    continue
 
                 # Bestimme Koordinaten
                 if element["type"] == "node":
@@ -218,6 +216,15 @@ class DutchIntercityFinder:
                 except (ValueError, AttributeError):
                     population = 0
 
+                # Elevation parsen (in Metern)
+                elevation = None
+                ele_str = tags.get("ele", "")
+                if ele_str:
+                    try:
+                        elevation = float(ele_str.replace(",", "."))
+                    except (ValueError, AttributeError):
+                        elevation = None
+
                 # Koordinaten
                 if element["type"] == "node":
                     lat = element.get("lat")
@@ -233,6 +240,7 @@ class DutchIntercityFinder:
                     "population": population,
                     "lat": lat,
                     "lon": lon,
+                    "elevation": elevation,
                     "place_type": tags.get("place", ""),
                     "wikidata": tags.get("wikidata", ""),
                 }
@@ -498,6 +506,7 @@ class DutchIntercityFinder:
                     "population": city["population"],
                     "lat": city["lat"],
                     "lon": city["lon"],
+                    "elevation": city.get("elevation"),
                     "intercity_stations": nearby_intercity_stations,
                     "wikidata": city["wikidata"],
                 }
@@ -702,6 +711,8 @@ class DutchIntercityFinder:
             print(f"\n{i}. {result['city']}")
             print(f"   Einwohner: {result['population']:,}")
             print(f"   Koordinaten: {result['lat']:.4f}, {result['lon']:.4f}")
+            if result.get("elevation") is not None:
+                print(f"   Höhe über NN: {result['elevation']:.1f} m")
 
             if result.get("intercity_stations"):
                 print(f"   Intercity-Stationen:")
@@ -767,12 +778,17 @@ class DutchIntercityFinder:
             writer = csv.writer(f)
 
             # Header
-            writer.writerow(["City", "Inhabitants", "University", "Number of Pools"])
+            writer.writerow(["City", "Inhabitants", "Elevation (m)", "University", "Number of Pools"])
 
             # Daten
             for result in sorted_results:
                 city = result["city"]
                 population = result["population"]
+                elevation = result.get("elevation", "")
+                if elevation is not None:
+                    elevation = f"{elevation:.1f}"
+                else:
+                    elevation = ""
 
                 # Sammle alle Universitätsnamen
                 universities = result.get("universities", [])
@@ -782,7 +798,7 @@ class DutchIntercityFinder:
                 pools = result.get("swimming_pools", [])
                 num_pools = len(pools)
 
-                writer.writerow([city, population, university_names, num_pools])
+                writer.writerow([city, population, elevation, university_names, num_pools])
 
         print(f"✓ CSV-Tabelle gespeichert: {filename}")
         print(f"  Pfad: {filepath}")
@@ -796,6 +812,7 @@ def create_example_data():
             "population": 249000,
             "lat": 51.4408,
             "lon": 5.4778,
+            "elevation": 22.0,
             "wikidata": "Q9832",
             "intercity_stations": [
                 {
@@ -833,6 +850,7 @@ def create_example_data():
             "population": 244000,
             "lat": 53.2194,
             "lon": 6.5665,
+            "elevation": 7.0,
             "wikidata": "Q749",
             "intercity_stations": [
                 {
@@ -870,6 +888,7 @@ def create_example_data():
             "population": 230000,
             "lat": 51.5553,
             "lon": 5.0913,
+            "elevation": 13.0,
             "wikidata": "Q9871",
             "intercity_stations": [
                 {
@@ -907,6 +926,7 @@ def create_example_data():
             "population": 179000,
             "lat": 51.8126,
             "lon": 5.8372,
+            "elevation": 22.0,
             "wikidata": "Q47887",
             "intercity_stations": [
                 {
@@ -944,6 +964,7 @@ def create_example_data():
             "population": 159000,
             "lat": 52.2185,
             "lon": 6.8937,
+            "elevation": 56.0,
             "wikidata": "Q47574",
             "intercity_stations": [
                 {
@@ -981,6 +1002,7 @@ def create_example_data():
             "population": 127000,
             "lat": 52.1601,
             "lon": 4.4970,
+            "elevation": 0.0,
             "wikidata": "Q43631",
             "intercity_stations": [
                 {

@@ -138,9 +138,7 @@
         "distance_km": 4.41
       }
     ],
-    "avg_house_price": 380000,
-    "temp_increase_2050": 2.4,
-    "summer_avg_2050": 20.0
+    "avg_house_price": 380000
   },
   {
     "city": "Apeldoorn",
@@ -251,9 +249,7 @@
         "distance_km": 3.53
       }
     ],
-    "avg_house_price": 340000,
-    "temp_increase_2050": 2.3,
-    "summer_avg_2050": 19.7
+    "avg_house_price": 340000
   },
   {
     "city": "Utrecht",
@@ -405,9 +401,7 @@
         "distance_km": 4.45
       }
     ],
-    "avg_house_price": 490000,
-    "temp_increase_2050": 2.2,
-    "summer_avg_2050": 19.5
+    "avg_house_price": 490000
   },
   {
     "city": "Leiden",
@@ -573,9 +567,7 @@
         "distance_km": 4.76
       }
     ],
-    "avg_house_price": 465000,
-    "temp_increase_2050": 1.9,
-    "summer_avg_2050": 18.9
+    "avg_house_price": 465000
   },
   {
     "city": "Delft",
@@ -771,9 +763,7 @@
         "distance_km": 3.95
       }
     ],
-    "avg_house_price": 435000,
-    "temp_increase_2050": 2.2,
-    "summer_avg_2050": 19.6
+    "avg_house_price": 435000
   },
   {
     "city": "Ede",
@@ -961,9 +951,7 @@
         "distance_km": 3.74
       }
     ],
-    "avg_house_price": 375000,
-    "temp_increase_2050": 2.5,
-    "summer_avg_2050": 20.2
+    "avg_house_price": 375000
   },
   {
     "city": "Tilburg",
@@ -1052,9 +1040,7 @@
         "distance_km": 4.9
       }
     ],
-    "avg_house_price": 315000,
-    "temp_increase_2050": 2.3,
-    "summer_avg_2050": 19.9
+    "avg_house_price": 315000
   },
   {
     "city": "Groningen",
@@ -1154,9 +1140,7 @@
         "distance_km": 4.24
       }
     ],
-    "avg_house_price": 295000,
-    "temp_increase_2050": 2.1,
-    "summer_avg_2050": 19.1
+    "avg_house_price": 295000
   },
   {
     "city": "Enschede",
@@ -1234,8 +1218,6 @@
         "distance_km": 3.85
       }
     ],
-    "avg_house_price": 255000,
-    "temp_increase_2050": 2.4,
-    "summer_avg_2050": 19.9
+    "avg_house_price": 255000
   }
 ]
